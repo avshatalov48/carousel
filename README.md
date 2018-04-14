@@ -1,5 +1,8 @@
 ## Carousel
 
+### Demo
+- http://shatalov.info/projects/carousel/
+
 ### Используемые инструменты и технологии:
 - HTML
 - PUG
