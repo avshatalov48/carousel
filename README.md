@@ -1,7 +1,7 @@
 ## Carousel
 
 ### Demo
-- http://shatalov.info/projects/carousel/
+- http://projects.shatalov.info/carousel/
 
 ### Используемые инструменты и технологии:
 - HTML
